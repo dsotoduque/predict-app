@@ -11,4 +11,9 @@ That will helps to improve the scalability, decoupling and orchestration of the 
 on demand about the resources usage.
 
 The infrastructure architecture looks like this:
+
+
+
+
+
 ![diagram](https://github.com/dsotoduque/predict-app/assets/17690605/7be2e0a7-77b3-4759-aed9-91ee6071a892)
